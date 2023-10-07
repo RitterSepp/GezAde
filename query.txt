@@ -1,0 +1,1 @@
+query -site:3sat.de -site:ard.de -site:arte.de -site:arte.tv -site:br.de -site:deutschlandfunk.de -site:deutschlandfunkkultur.de -site:hr.de -site:mdr.de -site:mdrjump.de -site:ndr.de -site:programm.ard.de -site:rbb24.de -site:sr.de -site:swr3.de -site:swr.de -site:tagesschau.de -site:wdr.de -site:www1.wdr.de -site:zdf.de

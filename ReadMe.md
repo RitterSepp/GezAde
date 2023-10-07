@@ -5,7 +5,105 @@ Hier nur kurz gezeigt, wie Sie das Angebot des öffentlich-rechtlichen Rundfunks
 ## Router Blacklist
 
 ```
-BLACKLIST
+1.ard.de
+3sat.de
+accounts.ard.de
+antennebrandenburg.de
+ardalpha.de
+ardaudiothek.de
+ard.de
+ardmediathek.de
+ard.social
+arte.de
+arte.tv
+bayern3.de
+br-chor.de
+br.de
+bremenvier.de
+brisant.de
+br-klassik.de
+br-musica-viva.de
+brso.de
+butenunbinnen.de
+cdn.mdr.de
+chronik-der-mauer.de
+cosmoradio.de
+dasding.de
+daserste.de
+denkfabrik.deutschlandradio.de
+deutschlandfunk.de
+deutschlandfunkkultur.de
+deutschlandfunknova.de
+deutschlandradio.de
+dlf.de
+dlf-podcastfinder.de
+dradio.de
+drp-orchester.de
+fritz.de
+funk.net
+hoerspielundfeature.de
+hr1.de
+hr2.de
+hr3.de
+hr4.de
+hr.de
+hr-fernsehen.de
+hr-inforadio.de
+images.ardmediathek.de
+inforadio.de
+jumpradio.de
+kika.de
+kiraka.de
+kulturradio.de
+kurz.sr.de
+mdr.de
+mdrjump.de
+musikrecherche.sr-online.de
+nachrichtenleicht.de
+ndr.de
+ndr-shop.de
+ndrticketshop.de
+n-joy.de
+ondemand-mp3.dradio.de
+one.ard.de
+phoenix.de
+playlisten.rbb-online.de
+portal.rundfunkbeitrag.de
+presse.rundfunkbeitrag.de
+programm.ard.de
+programm.tagesschau24.de
+radiobremen.de
+radioeins.de
+rbb24.de
+rbb888.de
+rbbkultur.de
+rbb-online.de
+rundfunkbeitrag.de
+rundfunkorchester.de
+saartext.de
+sputnik.de
+sr-audiothek.de
+sr.de
+sr-mediathek.de
+sr-mediathek.sr-online.de
+sr-online.de
+st01.sslstream.dlf.de
+story.ndr.de
+swr3.de
+swr.de
+swrfernsehen.de
+tagesschau24.de
+tagesschau.de
+tvfueralle.de
+unserding.de
+wdr.de
+wdrmaus.de
+www1.wdr.de
+www4.unserding.de
+you-fm.de
+zdf.de
+zdfinfo.de
+zdfneo.de
 ```
 
 ## Google / Bing Suche verbessern
@@ -15,7 +113,7 @@ Die laute Online-Präsenz des öffentlich-rechtlichen Rundfunks kann dazu führe
 Um sich umfassend und unabhängig zu informieren, können Sie eine einfache Methode anwenden, um Spam aus Ihren Suchergebnissen zu entfernen und relevantere Treffer zu erhalten, die sonst weiter hinten wären. Ergänzen Sie Ihren Suchbegriff in eine der gängigen Suchmaschinen (Google/Bing/Yahoo) um ` -site:zublockieren.de`. Damit filtern Sie die uninteressanten Internetseiten heraus.
 
 ```
-QUERY
+ query -site:3sat.de -site:ard.de -site:arte.de -site:arte.tv -site:br.de -site:deutschlandfunk.de -site:deutschlandfunkkultur.de -site:hr.de -site:mdr.de -site:mdrjump.de -site:ndr.de -site:programm.ard.de -site:rbb24.de -site:sr.de -site:swr3.de -site:swr.de -site:tagesschau.de -site:wdr.de -site:www1.wdr.de -site:zdf.de
 ```
 
 ## Hintergrund

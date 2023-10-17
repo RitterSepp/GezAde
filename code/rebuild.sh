@@ -75,4 +75,4 @@ README_MD="${README_MD/BLACKLIST/$BLACKLIST}"
 README_MD="${README_MD/QUERY/$QUERY}"
 echo "$README_MD" > ../ReadMe.md
 
-rm *.tmp
+# rm *.tmp

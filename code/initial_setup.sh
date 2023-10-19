@@ -41,8 +41,8 @@ echo
 
 cat urls* | cut -d/ -f3 | grep -v '#' >> domains.tmp
 grep '\..*\..*' domains.tmp | rev | cut -d. -f1,2 | rev >> domains_shortend.tmp
-mv ../blacklist.txt ../blacklist.$(date +%Y%m%d_%H%M).txt
-cat domains* | grep '.' | sed 's/www\.//g' | sort  | uniq > ../blacklist.txt
+mv ../blocklist.txt ../blocklist.$(date +%Y%m%d_%H%M).txt
+cat domains* | grep '.' | sed 's/www\.//g' | sort  | uniq > ../blocklist.txt
 
 echo searching trends
 while IFS= read -r TRENDING; do
@@ -54,25 +54,20 @@ while IFS= read -r TRENDING; do
 		    echo "        found $PROPAGANDA_PROVIDER"
             echo "$PROPAGANDA_PROVIDER" >> query.tmp
         fi
-    done < ../blacklist.txt
+    done < ../blocklist.txt
     find . -type f -name '*.htm*' -exec rm {} \;
 done < trends.txt
 
 echo creating output
 cat query.tmp | sort | uniq >> query_sorted.tmp
-BLACKLIST=$(cat ../blacklist.txt)
+blocklist=$(cat ../blocklist.txt)
 QUERY=" query"
 while IFS= read -r URL; do
     QUERY="$QUERY -site:$URL"
 done < query_sorted.tmp
 echo $QUERY > ../query.txt
 
-FOUND=$(wc -l ../blacklist.txt)
+FOUND=$(wc -l ../blocklist.txt)
 echo "found $FOUND domains"
-
-README_MD="$(cat readme.tpl)"
-README_MD="${README_MD/BLACKLIST/$BLACKLIST}"
-README_MD="${README_MD/QUERY/$QUERY}"
-echo "$README_MD" > ../ReadMe.md
 
 rm *.tmp

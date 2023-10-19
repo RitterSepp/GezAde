@@ -1,6 +1,7 @@
 # Rundfunk Empfang abschalten
 
 Hier nur kurz gezeigt, wie Sie das Angebot des öffentlich-rechtlichen Rundfunks in Ihrem Netzwerk blockieren können und damit Beitragsforderungen die Rechtsgrundlage entziehen. Denn um einen Beitrag zu erheben, ist es zwingend erforderlich, dass der Kunde die technische Möglichkeit hat, das Angebot zu nutzen. https://www.juraforum.de/lexikon/beitraege
+Falls Ihnen das Angebot des öffentlich rechtlichen Rundfunks gefällt können, können Sie diese Liste auch als Lesezeichen in Ihren Browser importieren. Was Sie mit der Liste machen, bleibt Ihnen überlassen. 
 
 ## Router Blacklist
 
@@ -22,7 +23,7 @@ QUERY
 
 Seit 1924 war grundsätzlich jeder, der ein Rundfunkempfangsgerät besaß, zur Zahlung einer Rundfunkgebühr verpflichtet. Aufgrund der „Zweiten Weimarer Rundfunkordnung“ vom Juli 1932 wurden die Gesellschaftsanteile der regionalen Rundfunkgesellschaften durch die Deutschnationale Volkspartei (später Koalitionspartner der NSDAP) zentralisiert und verstaatlicht. Nach Kriegsende erfolgte eine Dezentralisierung des Rundfunks, wobei die Finanzierung unabhängig von der Regierung gestaltet wurde, indem Rundfunklizenzen an Eigentümer von Radiogeräten vergeben wurden.
 
-"Neuartiges Rundfunkempfangsgerät" ist ein Rechtsbegriff aus dem 8. Rundfunkänderungsstaatsvertrag vom 15. Oktober 2004, mit dem der Rundfunkgebührenstaatsvertrag (RGebStV) in die ab dem 1. März 2005 geltende Fassung ergänzt wurde. Er umfasst alle Geräte, mit denen die über das Internet verbreiteten Rundfunkangebote abgerufen werden können. Unter der falschen Annahme, dass jeder Haushalt seit Neudefinition des Wortes "Rundfunkempfangsgerät" ein selbiges hätte, trat mit Wirkung ab 1. Januar 2013 der Rundfunkbeitragsstaatsvertrag (RBStV) in Kraft, der das bis dahin geltende Kundenfinanzierungsmodell durch eine staatliche Haushaltsabgabe ablöste.
+"Neuartiges Rundfunkempfangsgerät" ist ein Rechtsbegriff aus dem 8. Rundfunkänderungsstaatsvertrag vom 15. Oktober 2004, mit dem der Rundfunkgebührenstaatsvertrag (RGebStV) in die ab dem 1. März 2005 geltende Fassung ergänzt wurde. Er umfasst alle Geräte, mit denen die über das Internet verbreiteten Rundfunkangebote abgerufen werden können. Unter der falschen Annahme, dass jeder Haushalt seit Neudefinition des Wortes "Rundfunkempfangsgerät" ein selbiges hätte, trat mit Wirkung ab 1. Januar 2013 der Rundfunkbeitragsstaatsvertrag (RBStV) in Kraft, der das bis dahin geltende Kundenfinanzierungsmodell durch eine staatliche Haushaltsabgabe ablöste. Seither musste jeder Haushalt ABZOCKSUMME€ abdrücken.
 
 Sixt hatte geltend gemacht, dass die Rundfunkgebühr in ihrem neuen Gewand letztlich eine Steuer sei. Dafür seien die Länder jedoch nicht zuständig, die Gebühr daher verfassungswidrig. Das Bundesverwaltungsgericht hat am 18. März 2016 entschieden, dass der Rundfunkbeitrag keine Steuer, sondern tatsächlich ein [Beitrag](https://www.juraforum.de/lexikon/beitraege) ist. Bei einem Beitrag ist die tatsächliche Nutzung der Dienstleistung nicht ausschlaggebend. **Entscheidend ist vielmehr die potenzielle Möglichkeit, einen vermittelten individuellen Sondervorteil zu nutzen.**
 

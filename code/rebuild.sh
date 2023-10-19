@@ -36,4 +36,11 @@ README_MD="${README_MD/QUERY/$QUERY}"
 README_MD="${README_MD/ABZOCKSUMME/$ABZOCKSUMME}"
 echo "$README_MD" > ../ReadMe.md
 
+echo ...update seo
+wget https://rittersepp.github.io/GezAde/
 
+sed '7i <meta name="google-site-verification" content="n0BqjWHUaEKAYcmD4Mv5MiB28rXXha6C76vKWGPUz8g" />' index.html > tmp1.html
+sed '7i <meta name="msvalidate.01" content="B5BE1DBEFB1EEC8E97269DC72CD5261D" />' tmp1.html > tmp2.html
+sed '42i <a href="https://github.com/RitterSepp/GezAde/"><img decoding="async" width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_left_green_007200.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" loading="lazy" data-recalc-dims="1"></a>' tmp2.html > ../seo/index.html
+
+rm *.html

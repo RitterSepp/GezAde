@@ -4,7 +4,7 @@ Hier nur kurz gezeigt, wie Sie das Angebot des öffentlich-rechtlichen Rundfunks
 
 Falls Ihnen das Angebot des öffentlich rechtlichen Rundfunks gefällt können, können Sie diese Liste natürlich auch als Lesezeichen in Ihren Browser importieren. Was Sie mit der Liste machen, bleibt Ihnen überlassen. 
 
-## ÖRR Domain List
+## Blocklist
 
 ```
 1.ard.de

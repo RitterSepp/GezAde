@@ -1,12 +1,111 @@
 # Rundfunk Empfang abschalten
 
 Hier nur kurz gezeigt, wie Sie das Angebot des öffentlich-rechtlichen Rundfunks in Ihrem Netzwerk blockieren können und damit Beitragsforderungen die Rechtsgrundlage entziehen. Denn um einen Beitrag zu erheben, ist es zwingend erforderlich, dass der Kunde die technische Möglichkeit hat, das Angebot zu nutzen. https://www.juraforum.de/lexikon/beitraege
+
 Falls Ihnen das Angebot des öffentlich rechtlichen Rundfunks gefällt können, können Sie diese Liste auch als Lesezeichen in Ihren Browser importieren. Was Sie mit der Liste machen, bleibt Ihnen überlassen. 
 
-## Router Blacklist
+## Router Blocklist
 
 ```
-BLACKLIST
+1.ard.de
+3sat.de
+accounts.ard.de
+antennebrandenburg.de
+ardalpha.de
+ardaudiothek.de
+ard.de
+ardmediathek.de
+ard.social
+arte.de
+arte.tv
+bayern3.de
+br-chor.de
+br.de
+bremenvier.de
+brisant.de
+br-klassik.de
+br-musica-viva.de
+brso.de
+butenunbinnen.de
+cdn.mdr.de
+chronik-der-mauer.de
+cosmoradio.de
+dasding.de
+daserste.de
+denkfabrik.deutschlandradio.de
+deutschlandfunk.de
+deutschlandfunkkultur.de
+deutschlandfunknova.de
+deutschlandradio.de
+dlf.de
+dlf-podcastfinder.de
+dradio.de
+drp-orchester.de
+fritz.de
+funk.net
+hoerspielundfeature.de
+hr1.de
+hr2.de
+hr3.de
+hr4.de
+hr.de
+hr-fernsehen.de
+hr-inforadio.de
+images.ardmediathek.de
+inforadio.de
+jumpradio.de
+kika.de
+kiraka.de
+kulturradio.de
+kurz.sr.de
+mdr.de
+mdrjump.de
+musikrecherche.sr-online.de
+nachrichtenleicht.de
+ndr.de
+ndr-shop.de
+ndrticketshop.de
+n-joy.de
+ondemand-mp3.dradio.de
+one.ard.de
+phoenix.de
+playlisten.rbb-online.de
+portal.rundfunkbeitrag.de
+presse.rundfunkbeitrag.de
+programm.ard.de
+programm.tagesschau24.de
+radiobremen.de
+radioeins.de
+rbb24.de
+rbb888.de
+rbbkultur.de
+rbb-online.de
+rundfunkbeitrag.de
+rundfunkorchester.de
+saartext.de
+sputnik.de
+sr-audiothek.de
+sr.de
+sr-mediathek.de
+sr-mediathek.sr-online.de
+sr-online.de
+st01.sslstream.dlf.de
+story.ndr.de
+swr3.de
+swr.de
+swrfernsehen.de
+tagesschau24.de
+tagesschau.de
+tvfueralle.de
+unserding.de
+wdr.de
+wdrmaus.de
+www1.wdr.de
+www4.unserding.de
+you-fm.de
+zdf.de
+zdfinfo.de
+zdfneo.de
 ```
 
 ## Google / Bing Suche verbessern

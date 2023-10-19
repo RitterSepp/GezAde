@@ -1,12 +1,13 @@
 # Rundfunk Empfang abschalten
 
 Hier nur kurz gezeigt, wie Sie das Angebot des öffentlich-rechtlichen Rundfunks in Ihrem Netzwerk blockieren können und damit Beitragsforderungen die Rechtsgrundlage entziehen. Denn um einen Beitrag zu erheben, ist es zwingend erforderlich, dass der Kunde die technische Möglichkeit hat, das Angebot zu nutzen. https://www.juraforum.de/lexikon/beitraege
+
 Falls Ihnen das Angebot des öffentlich rechtlichen Rundfunks gefällt können, können Sie diese Liste auch als Lesezeichen in Ihren Browser importieren. Was Sie mit der Liste machen, bleibt Ihnen überlassen. 
 
-## Router Blacklist
+## Router Blocklist
 
 ```
-BLACKLIST
+BLOCKLIST
 ```
 
 ## Google / Bing Suche verbessern
